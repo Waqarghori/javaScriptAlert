@@ -72,8 +72,15 @@
 // alert (visited + num + time);
 
 // ======Chapter No3(Q.3)======
-var birthYear = (1990);
-document.write("My birth year is "+ birthYear);
-document.write(" Dat type my ddeclared variable is number");
+// var birthYear = (1990);
+// let messsage =("My birth year is "+birthYear+".<br>Data type of my ddeclared variable in number");
+// document.write (messsage)
+
 // ======Chapter No3(Q.4)======
+// let visiterName = ("John Doe ");
+// let productTitle = (" T-shirt(S) ");
+// let Quantity = ( 5 );
+// let storeName = (" XYZ Clothing Store");
+// document.write (visiterName + Quantity + productTitle +" On "+ storeName);
+
 
